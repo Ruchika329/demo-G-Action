@@ -8,7 +8,7 @@ const questions = [
         question: "What does CSS stand for?",
         options: [
             "Central Style Sheets",
-            "Cascading Style Sheets",
+            "Cascading Style Sheet",
             "Cascading Simple Sheets",
             "Control Style Sheets"
         ],
