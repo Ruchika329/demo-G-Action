@@ -3,11 +3,9 @@ name: CI/CD Workflow
 # 1. Event / Trigger (Orange Box)
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch: # Manual trigger
-
+    branches:
+    - main
+  
 jobs:
   # 2. Job: build (Green Box)
   build:
