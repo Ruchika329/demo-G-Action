@@ -12,7 +12,7 @@ const questions = [
             "Cascading Simple Sheets",
             "Control Style Sheets"
         ],
-        answer: "Cascading Style Sheets"
+        answer: "Cascading Style Sheet"
     },
     {
         question: "Which HTML tag is used to define an internal style sheet?",
